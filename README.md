@@ -1,2 +1,2 @@
 # Kaggle-playgrounds
-A repository storing all Kaggle playgrounds' codes.
+A repository storing all Kaggle playgrounds' participations.
